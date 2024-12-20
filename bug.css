@@ -1,0 +1,1 @@
+The CSS rule `:focus-visible` is not supported in older browsers.  This causes a problem with accessibility and styling for elements that should have a visible focus indicator (like input fields).  The effect is that the focus style is either missing completely, or is applied inconsistently across browsers.
